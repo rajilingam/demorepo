@@ -17,6 +17,7 @@ Before using this script, make sure you have the following:
 - A GitHub account and a Personal Access Token (PAT) with the necessary permissions to create repositories.
 -![Screenshot of My Awesome Project](https://github.com/yourusername/yourrepository/raw/main/screenshot.png)
  
+![Screenshot](path/to/your/screenshot.png)
 
 ## Usage
 
