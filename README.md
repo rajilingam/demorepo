@@ -15,6 +15,8 @@ Before using this script, make sure you have the following:
 - Python installed on your system.
 - The `requests` library installed (`pip install requests`).
 - A GitHub account and a Personal Access Token (PAT) with the necessary permissions to create repositories.
+-![Screenshot of My Awesome Project](https://github.com/yourusername/yourrepository/raw/main/screenshot.png)
+ 
 
 ## Usage
 
