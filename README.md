@@ -3,6 +3,9 @@
 
 This Python script allows you to create a new repository on GitHub using a Personal Access Token (PAT). It utilizes the GitHub API to create the repository.
 
+#For more information, visit [our website](https://example.com).
+
+
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Prerequisites
